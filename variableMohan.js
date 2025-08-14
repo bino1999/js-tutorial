@@ -7,5 +7,5 @@ const isHePresent = true;
 console.log(name);
 console.log(isHePresent);
 
-city = 'Kandy'; // This will throw an error because 'city' is a constant
+city = 'Kandy';
 console.log(city); 
